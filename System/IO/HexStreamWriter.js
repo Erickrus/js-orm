@@ -1,4 +1,4 @@
-/* Org.BusinessObjects */
+/* System.IO */
 
 //implemented the basic funciton, append only
 /*class*/ function HexStreamWriter() {
