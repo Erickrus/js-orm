@@ -7,9 +7,9 @@ js-orm
 
 The main works including:
 
-1  Wrap a table/object level into the Class "Table"
-   1.1 Manage the metadata of a object/table
-             constructor(name, column[]),
+1  Wrap a table/object level into the Class "Table"<br/>
+   1.1 Manage the metadata of a object/table<br/>
+             constructor(name, column[]),<br/>
                 Initialize the metadata from constructor.
                 Normally, only table name will be provided and level column[] empty,
                 since the table structure can be retrieved from following 2 functions
