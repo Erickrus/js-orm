@@ -28,11 +28,11 @@ The main works including:
    1.3 Simplify DML for upsert/delete on Array/Object Level<br/>
        delete(db, where)<br/>
                - Straight wrap up for the delete statement with in the Table<br/>
-       Arr : 
+       Arr : <br/>
             - insertArray(db, []), upsertArray(db, [])<br/>
                -- insert/upsert the given array to specific table<br/>
                -- Note, the order that data stored in the array shall be the same as create DDL SQL<br/>
-       Obj : 
+       Obj : <br/>
             - insertObject(db, obj), upsertObject(db, obj)<br/>
                -- insert/upsert the given object to specific table<br/>
             - getDefaultObject()<br/>
