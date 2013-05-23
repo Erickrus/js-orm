@@ -3,7 +3,7 @@ js-orm
 
 
 
-   'js-orm' is the abbrevation for JavaScript based Sqlite ORMapping Library. After SQLite was successfully ported to javascript by 'emscripten', vast works can be done based on the Sqlite Javascript version. This library is a simple wrap up for the Sqlite. With this library, it will be able to easily do the conversion between object/array and sqlite row(s). Furthermore, a storage for SQlite database is made possible on Chrome and Firefox, which makes life easier.<br/>
+   'js-orm' is the abbrevation for JavaScript-Sqlite OR-Mapping Library. After SQLite was successfully ported to javascript by 'emscripten', vast works can be done based on the Sqlite Javascript version. This library is a simple wrap up for the Sqlite. With this library, it will be able to easily do the conversion between object/array and sqlite row(s). Furthermore, a storage for SQlite database is made possible on Chrome and Firefox, which makes life easier.<br/>
     <br/>
    The main works includes:<br/>
     <br/>
