@@ -1,3 +1,5 @@
+/* System */
+
 //@function=replaceAll
 String.prototype.replaceAll = function(target, replacement) {
   return this.split(target).join(replacement);
