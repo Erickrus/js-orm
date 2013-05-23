@@ -1,3 +1,5 @@
+/* Test */
+
 // Run tests
 //   var db = SQL.open();
 //   var mFT1 = new Table('FT1', []);
