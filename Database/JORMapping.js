@@ -1,3 +1,4 @@
+/* Database */
 /* Javascript Object Relation Mapping (SQL wrap-script)
      Classes
         class Table:
