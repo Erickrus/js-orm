@@ -1,4 +1,4 @@
-/* Org.BusinessObjects */
+/* System.IO */
 
 /*class*/ function HexStreamReader() {
    /*public String*/ this.stream = "";
